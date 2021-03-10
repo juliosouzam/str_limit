@@ -1,0 +1,22 @@
+{
+  "name": "str_limit",
+  "version": "1.0.0",
+  "description": "A lightweight lib to limit strings",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosouzam/str_limit.git"
+  },
+  "keywords": [
+    "limit",
+    "str",
+    "string",
+    "text"
+  ],
+  "author": "Júlio César",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliosouzam/str_limit/issues"
+  },
+  "homepage": "https://github.com/juliosouzam/str_limit#readme"
+}

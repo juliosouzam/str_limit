@@ -1,6 +1,6 @@
 {
   "name": "str_limit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight lib to limit strings",
   "main": "index.js",
   "repository": {

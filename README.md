@@ -12,5 +12,5 @@ npm install str-limit
 const { str_limit } = require('str-limit');
 
 str_limit('A string that will be limited', 12);
-// A string...
+// A string that will b...
 ```
